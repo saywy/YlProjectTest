@@ -5,3 +5,4 @@ def print_hi(name):
     pprint('Матвей')
 
 print(name=input())
+print('smam')
