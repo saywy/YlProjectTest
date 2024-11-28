@@ -1,1 +1,2 @@
-print('f')
+def print_hi(name):
+    print('Привет!')
