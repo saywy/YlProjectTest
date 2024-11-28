@@ -1,2 +1,7 @@
+from pprint import pprint
+
 def print_hi(name):
-    print('Привет!')
+    pprint('Привет!')
+    pprint('Матвей')
+
+print(name=input())
